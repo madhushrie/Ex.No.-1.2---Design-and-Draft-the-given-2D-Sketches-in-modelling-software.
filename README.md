@@ -37,7 +37,8 @@
 
  ## OUTPUT
  
- [edm new.pdf](https://github.com/user-attachments/files/18266382/edm.new.pdf)
+[edm1.2.pdf](https://github.com/user-attachments/files/18266395/edm1.2.pdf)
+
 
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
